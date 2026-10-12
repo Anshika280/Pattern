@@ -3,7 +3,7 @@
 <p align="center">
   <b>Practice • Learn • Master Java Patterns</b>
 </p>
-
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ## 📌 About
 A structured collection of Java pattern problems to improve logical thinking, nested-loop concepts, and problem-solving skills.
 
